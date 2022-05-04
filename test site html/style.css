@@ -1,0 +1,48 @@
+body {margin: 0;
+}
+
+h1{text-align: center;
+  color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 5px;
+  text-decoration: none;
+  background-color: blue;
+  padding: 5px;
+  border-radius: 20px
+}
+
+h2{
+  color: #ffffff;
+}
+main {background-color: #21760F ;}
+
+.imaje {
+ width: 40%;
+ padding-top: 7px;
+ padding-bottom: 5px;
+}
+
+.hero{
+  text-align: center;
+}
+
+nav ul {
+list-style-type: none;
+}
+
+nav li{
+  display: inline;
+}
+
+nav a {
+  text-decoration:none;
+  font-size: 0.6em;
+  font-variant: small-caps;
+  color: blue;
+  margin-right:15px;
+}
+
+nav a:hover{
+  color:white;
+  text-decoration: underline;
+}
